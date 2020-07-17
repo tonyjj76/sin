@@ -1,2 +1,2 @@
-https://iptv-org.github.io/iptv/countries/in.m3u
-https://iptv-org.github.io/iptv/categories/kids.m3u
+#EXTM3U
+EXTINF :-1, A https://iptv-org.github.io/iptv/countries/in.m3u
